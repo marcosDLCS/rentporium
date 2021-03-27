@@ -1,0 +1,38 @@
+= Rentporium
+:toc:
+
+An opinionated approach to implement Clean Architecture, DDD, SOLID principles (and more) with Java and Spring
+
+== 🕵️‍♀️ References
+
+The content of this repository is mainly based on the following books on software design and architecture:
+
+* https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled[**Domain-Driven Design Distilled**, by Vaughn Vernon]
+
+* https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design[**Patterns Principles and Practices of Domain Driven Design**, by Scott Millett]
+
+* https://www.goodreads.com/book/show/18043011-clean-architecture[**Clean Architecture**, by Robert C. Martin]
+
+* https://leanpub.com/get-your-hands-dirty-on-clean-architecture[**Get Your Hands Dirty on Clean Architecture**, by Tom Hombergs]
+
+== 🤷🏻‍♂️ What is Rentporium?
+
+Rentporium is a fictitious company that rents all types of vehicles and wants to start a deep digital transformation.
+
+The company currently consists of several departments, including: 
+
+* Purchasing and maintenance 
+* Customers and rentals 
+* Insurances 
+* Marketing and customer loyalty
+* Customer service and legal
+
+++++
+<p align="center">
+  <img src="./resources/img/rentporium.png">
+</p>
+++++
+
+== 🛣 The road to success
+
+Work in progress...
