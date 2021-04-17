@@ -98,7 +98,7 @@
 	<build>
 		<plugins>
 
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-contract-maven-plugin</artifactId>
 				<version>3.0.2</version>
@@ -106,7 +106,7 @@
 				<configuration>
 					<testFramework>JUNIT5</testFramework>
 				</configuration>
-			</plugin>
+			</plugin> -->
 
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
