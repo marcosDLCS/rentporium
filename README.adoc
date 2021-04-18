@@ -1,5 +1,6 @@
 = Rentporium
 :toc:
+ifdef::env-github,env-browser[:relfilesuffix: .adoc]
 
 An opinionated approach to implement Clean Architecture, DDD, SOLID principles (and more) with Java and Spring
 
@@ -35,4 +36,6 @@ The company currently consists of several departments, including:
 
 == 🛣 The road to success
 
-Work in progress...
+In order to grow our company, Rentporium, we are going to follow a few steps to better understand the characteristics of our domain and start implementing a code base inspired by the patterns, principles and practices of Domain Driven Design.
+
+. xref:docs/01_core_generic_supporting_domains.adoc[Identify the core, generic and supporting (sub)domains]

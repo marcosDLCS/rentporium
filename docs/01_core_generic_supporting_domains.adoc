@@ -1,0 +1,4 @@
+= Identify the core, generic and supporting (sub)domains
+:toc:
+
+Work in progress...
